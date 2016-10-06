@@ -1,0 +1,8 @@
+For socksV4 do :
+set Proxies socks4:192.168.1.2:1080
+
+and for HTTP Connect 
+set Proxies HTTP:192.168.1.2:8080
+
+NOTE!
+normaly cant use reverse payloads with a proxy.
